@@ -2,16 +2,16 @@
 **Constellation 25 Confirmed Script** — ran successfully on device
 
 ## Stats
-- Lines: 10
-- Dependencies: none
+- Lines: 5
+- Dependencies: go 
 
 ## Usage
 ```bash
-chmod +x deploy_agents.sh
-./deploy_agents.sh
+chmod +x deploy-agents.sh
+./deploy-agents.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/constellation25-mono/AiKre8tive-Stargate/deploy_agents.sh
+/data/data/com.termux/files/home/constellation25-mono/AiKre8tive-Stargate/platform/planetary-deployment/deploy-agents.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
